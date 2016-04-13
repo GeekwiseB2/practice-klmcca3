@@ -39,3 +39,20 @@
   border: 3px solid black;
   height: 100px;
 }
+
+/*Media Queries*/
+
+
+@media (min-width:768px) {
+  .footer{
+    background-color: tomato;
+    border: 3px solid black;
+    }
+}
+
+@media (min-width:375px) {
+  .promo{
+    background-color: purple;
+    border: 3px solid black;
+
+}
